@@ -2,7 +2,9 @@
 Input is 2d-Array (its row and its column are equal) ..Ex 2x2 Or 3x3 2d-Array.
 Task is taking bigger colored square from array for Example 3X3
 |1 1 1|
+
 |0 1 1|
+
 |1 1 1|
 
 The output is 2X2 Square colored array
